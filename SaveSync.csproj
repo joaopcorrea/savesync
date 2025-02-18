@@ -10,8 +10,12 @@
 
   <ItemGroup>
     <Folder Include="Models\" />
-    <Folder Include="Controllers\" />
     <Folder Include="Repositories\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Apis.Auth" Version="1.69.0" />
+    <PackageReference Include="Google.Apis.Drive.v3" Version="1.69.0.3693" />
   </ItemGroup>
 
 </Project>
