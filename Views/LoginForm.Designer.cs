@@ -39,6 +39,7 @@
             txtEmail.Name = "txtEmail";
             txtEmail.Size = new Size(100, 23);
             txtEmail.TabIndex = 0;
+            txtEmail.Text = "joaopedrocorrea21@gmail.com";
             // 
             // txtDiretorio
             // 
@@ -46,6 +47,7 @@
             txtDiretorio.Name = "txtDiretorio";
             txtDiretorio.Size = new Size(100, 23);
             txtDiretorio.TabIndex = 1;
+            txtDiretorio.Text = "testao.txt";
             // 
             // button1
             // 
